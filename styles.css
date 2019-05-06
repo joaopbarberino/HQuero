@@ -1,0 +1,46 @@
+html {
+    height: 100%;
+}
+
+body {
+    background: url(background.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    font-family: 'Chela One', cursive;
+
+}
+
+#content {
+    color: white;
+    padding-top: 25%;
+    text-align: center;
+    text-shadow: 0px 4px 3px rgba(0, 0, 0, 0.4),
+                 0px 8px 13px rgba(0, 0, 0, 0.1),
+                 0px 18px 23px rgba(0, 0, 0, 0.1);
+    
+}
+
+#teste {
+    border-radius: 30px;
+    padding: 20px;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+#content i {
+    margin-right: 5px;
+}
+
+hr {
+    width: 50%;
+    border-top: 1px solid #f8f8f8;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+}
+
+h3 {
+    font-weight: 300;
+}
+
+.usuario {
+    margin-left: 5px;
+}
